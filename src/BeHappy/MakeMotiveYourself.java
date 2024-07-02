@@ -5,6 +5,10 @@ public class MakeMotiveYourself
 
 	public static void main(String[] args)
 	{
-		System.out.println("Behappyyourself");
+		System.out.println("Behappyouryourself");
+	}
+	public void praveen()
+	{
+		
 	}
 }
